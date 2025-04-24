@@ -15,31 +15,32 @@ The source code was written and compiled using Dev-C++ IDE running on Windows 10
 ### Structure  
 ![Screenshot from 2025-04-24 19-47-57](https://github.com/user-attachments/assets/6de9f72d-1fc2-4aac-926f-0f1394e2ed1b)  
 Defines a custom data type to group buyer's name and phone number.  
-
+  
 ### Function Prototypes  
 ![Screenshot from 2025-04-24 19-51-37](https://github.com/user-attachments/assets/95adc2c6-6695-440a-8add-7144d00832fa)  
 The function seatbooked() updates seat count while totalprice() calculates total price.  
-
+  
 ### Structure Usage  
 ![Screenshot from 2025-04-24 19-52-19](https://github.com/user-attachments/assets/901c3789-c364-4604-af22-c23c74a62b31)  
 Creates a variable 'buyer' of type info to store user input.  
-
+  
 ### Loop  
 ![Screenshot from 2025-04-24 19-54-21](https://github.com/user-attachments/assets/50cb51e9-4e83-4856-a081-b2a4012e775a)  
 ![Screenshot from 2025-04-24 19-54-54](https://github.com/user-attachments/assets/de116332-940d-4175-a9be-a0ce5e27142e)  
 A do-while loop runs the ticket booking logic repeatedly based on conditions.  
-
+  
 ### Array  
 ![Screenshot from 2025-04-24 19-55-45](https://github.com/user-attachments/assets/91e95dc5-c985-46a0-9499-f75907161655)  
 Stores available movie names. Accessed via index based on user input to display the selected movie.  
-
+  
 ### Function Calls  
 ![Screenshot from 2025-04-24 19-56-23](https://github.com/user-attachments/assets/5a8d98c4-355d-4be8-8b55-fb4c1670038c)  
 Called to update the seat count and calculate the total payment after each input.  
-
+  
 ### Conditional Statements  
 ![Screenshot from 2025-04-24 19-57-14](https://github.com/user-attachments/assets/b0cf05ca-47c2-41ad-b9c4-e5e346703436)  
 Used to check if seat limit is reached and decide whether to exit or continue based on user input (flag).  
+
   
 ## ▶️ __How to Run the Program__  
 Simply open the CPP file double-clicking on it. If you are using Dev-C++, click on te Compile icon in the taskbar near the top of the window or press F9. If compilation succeeds, click on the Run icon or press F10.  
